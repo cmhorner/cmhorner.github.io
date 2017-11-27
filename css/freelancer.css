@@ -53,9 +53,9 @@ hr.star-primary:after {
 hr.star-light {
   border-color: white; }
 
-hr.star-light:after {
+/*hr.star-light:after {
   color: white;
-  background-color: #18BC9C; }
+  background-color: #18BC9C; }*/
 
 hr.star-primary {
   border-color: #2C3E50; }
@@ -75,7 +75,7 @@ section {
 
 section.success {
   color: white;
-  background: #bc1838; }
+  background: #8f1812; }
 
 @media (max-width: 767px) {
   section {
@@ -163,7 +163,7 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-  background: #502c2c; }
+  background: #8f1812; }
   header.masthead img {
     display: block;
     margin: 0 auto 20px; }
